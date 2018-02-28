@@ -12,3 +12,13 @@ A.
 Q. Message Please!
 A.
 
+## B.
+
+Q. What's your name?
+A. 
+
+Q. Where are you from?
+A.
+
+Q. Message Please!
+A.
